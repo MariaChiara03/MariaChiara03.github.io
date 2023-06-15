@@ -3,6 +3,7 @@ title: Eternity # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
+publishDir: "docs"
 
 params:
   image: /images/banner.png
