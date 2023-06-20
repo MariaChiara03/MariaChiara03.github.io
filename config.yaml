@@ -64,10 +64,10 @@ menu:
       url: /tags/immagini/
       weight: 1
     - name: Tramonti
-      url: /tags/people/
+      url: /tags/tramonti/
       weight: 2
     - name: Lavori
-      url: /tags/nature/
+      url: /tags/lavori/
       weight: 3
     - name: archive
       url: /tags/archive/
